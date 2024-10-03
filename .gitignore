@@ -1,6 +1,11 @@
 .ipynb_checkpoints/*
 Datos/logs/*
+!Datos/logs/.gitkeep
 Datos/Poligonos/*
+!Datos/Poligonos/.gitkeep
 Datos/Registros de Trufi App/*
+!Datos/Registros de Trufi App/.gitkeep
 Results/*
+!Results/.gitkeep
 Weeks/*
+!Weeks/.gitkeep
